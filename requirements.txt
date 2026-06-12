@@ -1,7 +1,8 @@
 fastapi==0.115.5
 uvicorn[standard]==0.32.1
 scikit-learn==1.6.1
-numpy==1.26.4
+numpy
+pandas
 pydantic==2.10.3
 streamlit
 requests
