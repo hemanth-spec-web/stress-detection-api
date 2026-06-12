@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import pandas as pd
 import numpy as np
-import io
 
 API_URL = "https://stress-detection-api-my05.onrender.com/predict"
 
